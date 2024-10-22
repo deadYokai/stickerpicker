@@ -2,7 +2,8 @@
   "packs": [
     "doggies.json",
     "wannyan.json",
-    "STALKER_UA_2023.json"
+    "STALKER_UA_2023.json",
+    "Kontakt14.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
